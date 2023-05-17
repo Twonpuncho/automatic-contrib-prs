@@ -1,0 +1,13 @@
+- name: Automatic Contrib PRs
+
+  uses: github/automatic-contrib-prs@v1.0.0var braintree = require('braintree-web');
+
+braintree.client.create({
+
+  authorization: 'CLIENT_AUTHORIZATION'
+
+}, function (err, clientInstance) {
+
+  // Instantiate components here!
+
+});$ ssh-keygen -t ed25519 -C "twonphillips23@gmail.com https://github.com/kpavlov/jreactive-8583/pull/155#issue-1689624222config/repolinter-ruleset.jsond59960ae35b7dfc5d8149bf57b66ccdc76f1710ehttps://github.com/github/.github/blob/d9c05dfc6b02cafe78a6342a73e9e9096273c4fd/CONTRIBUTING.md
